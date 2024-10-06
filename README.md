@@ -1,9 +1,9 @@
 # search2.0
 
-###Recent Activities
+### Recent Activities
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-###About Me
+### About Me
 <!--MYLINKS:START-->
 <!--MYLINKS:END-->
