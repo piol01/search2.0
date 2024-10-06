@@ -15,7 +15,3 @@
 10. 📝 Committed to [piol01/search2.0](https://github.com/piol01/search2.0/commit/2e87497025bff75508cd877d3f9457b3f8b0dcfe)
 <!--END_SECTION:activity-->
 
-main
-### Recent Activities
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
