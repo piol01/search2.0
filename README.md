@@ -3,15 +3,15 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `main` in a private repo
-2. 🎉 Created a new private repository
-3. 📝 Committed to [greatfish01/activity-log](https://github.com/greatfish01/activity-log/commit/0608c1055643cf2f817329f72d29e12fefdc5495)
-4. 📝 Committed to [greatfish01/activity-log](https://github.com/greatfish01/activity-log/commit/71fd47c050cd4e3d9c6b364f9af63c7a66bf8a35)
-5. 📝 Committed to [greatfish01/activity-log](https://github.com/greatfish01/activity-log/commit/d2010132c9e938017f501f6bcf3966bc73f932de)
-6. ❌ Closed an issue [#1](https://github.com/greatfish01/activity-log/issues/1) in [greatfish01/activity-log](https://github.com/greatfish01/activity-log)
-7. 📝 Committed to [greatfish01/activity-log](https://github.com/greatfish01/activity-log/commit/7b61887a2a6fc28ae3df2e310f0261516409a7e7)
-8. 📝 Committed to [greatfish01/activity-log](https://github.com/greatfish01/activity-log/commit/37591e21283589af88553ac341ec25a070559e40)
-9. 📝 Committed to [greatfish01/activity-log](https://github.com/greatfish01/activity-log/commit/4604ced36bc614075ee6734e47e46ecac89d92ec)
-10. 📝 Committed to [greatfish01/activity-log](https://github.com/greatfish01/activity-log/commit/a7a05110d57e2b2a93988af3a39ec4457a61d88a)
+1. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/7eff6529041c506503b7accd8c0bb523de87ed07)
+2. 🔀 Merged [PR #11](https://github.com/xiang-921101/teamhw/pull/11) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+3. 📥 Opened [PR #11](https://github.com/xiang-921101/teamhw/pull/11) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+4. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/7eff6529041c506503b7accd8c0bb523de87ed07)
+5. 🔄 Reopened an issue [#1](https://github.com/xiang-921101/teamhw/issues/1) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+6. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/19c40a62e49bd8228eb13215c943451cba22bdc5)
+7. ❌ Closed an issue [#1](https://github.com/xiang-921101/teamhw/issues/1) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+8. 🔀 Merged [PR #10](https://github.com/xiang-921101/teamhw/pull/10) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
+9. 📝 Committed to [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw/commit/b7b6342a97e6f6bcd77a16f7105c5f87f8bc024f)
+10. 📥 Opened [PR #10](https://github.com/xiang-921101/teamhw/pull/10) in [xiang-921101/teamhw](https://github.com/xiang-921101/teamhw)
 <!--END_SECTION:activity-->
 
